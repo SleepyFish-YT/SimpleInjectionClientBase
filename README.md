@@ -28,4 +28,7 @@ shows up. Click on "Release" and make sure the "Toolchain" is selected to "Visua
 ### Usage
 To use the client base, simply build the executable and inject with your preferred injector.
 
+## Discord Server
+<a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
+
 ###### Signed by SleepyFish.
