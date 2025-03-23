@@ -6,7 +6,7 @@ This is a simple Lunar Client injection cheat base written in C++ and built with
 
 To get started with this project, you'll need to have the following software installed:
 
-- [CLion](https://www.jetbrains.com/clion/)
+- [Jetbrains CLion](https://www.jetbrains.com/clion/)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/community/) (for the toolchain)
 
 ### Visual Studio 2022 Installation Requirements
