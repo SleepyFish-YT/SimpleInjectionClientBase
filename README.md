@@ -1,34 +1,44 @@
 # Simple Injection Client Base for Lunar 1.8.9
 
-This is a simple lunar injection client base written in C++ built with CMake!
+This is a simple Lunar Client injection cheat base written in C++ and built with CMake.
 
 ## Getting Started
 
-To get started with this project, you'll need to have the following installed:
+To get started with this project, you'll need to have the following software installed:
 
 - [CLion](https://www.jetbrains.com/clion/)
-- [Visual Studio 2022 for the Toolchain](https://visualstudio.microsoft.com/de/vs/community/)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/community/) (for the toolchain)
 
-### On the Visual Studio 2022 Installation u need to choose Following individual installations
+### Visual Studio 2022 Installation Requirements
+
+When installing Visual Studio 2022, make sure to select the following components:
+
 #### Workloads:
-- Universal Windows Platform development 
+- Universal Windows Platform development
 
-#### Individual:
+#### Individual Components:
 - MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.38-17.8)
 - MSVC v143 - VS 2022 C++ x64/x86 build tools (Latest)
 - Windows 11 SDK (10.0.22621.0)
 - C++ CMake tools for Windows
 - IntelliCode
 
-Once you have Clion and the parts above installed, go in CLion u might download some Plugins you know from IntelliJ because they may be on Clion also.
-Then go in the settings and add a new "Toolchain" under "Build, Execution, Deployment" click on the "+" then select 
-"Visual Studio" and select your installation path. Then right under "Toolchains" is "CMake" and click twice on the "+" until "Debug" and "Release"
-shows up. Click on "Release" and make sure the "Toolchain" is selected to "Visual Studio"
+Once you have CLion and the required components installed:
+
+1. Open CLion and optionally install any plugins you're familiar with from IntelliJ, as they may also be available for CLion.
+2. Go to `Settings` → `Build, Execution, Deployment` → `Toolchains`.
+3. Click on the `+` button, select `Visual Studio`, and choose your Visual Studio installation path.
+4. Under `Toolchains`, click on `CMake`, then click the `+` button twice to generate both `Debug` and `Release` configurations.
+5. Select the `Release` configuration and ensure the `Toolchain` is set to `Visual Studio`.
 
 ### Usage
-To use the client base, simply build the executable and inject with your preferred injector.
+
+To use the client base, build the executable and inject it using your preferred injector.
 
 ## Discord Server
-<a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
+
+Join our community on Discord:
+
+<a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="Discord Invite Link"/></a>
 
 ###### Signed by SleepyFish.
