@@ -31,4 +31,9 @@ To use the client base, simply build the executable and inject with your preferr
 ## Discord Server
 <a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
 
+## Preview Screenshots
+![image](https://github.com/user-attachments/assets/5488652f-d213-4930-a791-075a72a9373e)
+![image](https://github.com/user-attachments/assets/66439108-05cb-4c4e-9733-a30997c44c10)
+![image](https://github.com/user-attachments/assets/1b5f4370-7868-4a40-8d2c-5a665c66d5b8)
+
 ###### Signed by SleepyFish.
