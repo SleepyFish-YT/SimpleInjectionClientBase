@@ -1,4 +1,4 @@
-# Simple Injection Client Base for Lunar 1.8.9
+# Simple Injection Cheat Base for Lunar Client 1.8.9
 
 This is a simple Lunar Client injection cheat base written in C++ and built with CMake.
 
@@ -33,7 +33,7 @@ Once you have CLion and the required components installed:
 
 ### Usage
 
-To use the client base, build the executable and inject it using your preferred injector.
+To use the cheat base, build the DLL and inject it using your preferred injector.
 
 ## Discord Server
 
